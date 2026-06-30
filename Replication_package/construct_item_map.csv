@@ -1,0 +1,12 @@
+use_case,construct,items,n_items
+UC1_hotel,Booking intention,"B03Q01_1, B03Q01_2",2
+UC1_hotel,Price-value,"B03Q02_1, B03Q02_2, B03Q02_3",3
+UC1_hotel,Attractiveness of the offer,"B03Q03_1, B03Q03_2",2
+UC1_hotel,Fit/suitability of the offer,"B03Q03_3, B03Q03_4",2
+UC1_hotel,Positive reviews,"B03Q04_1, B03Q04_2",2
+UC1_hotel,Credibility of the reviews,"B03Q04_3, B03Q04_4, B03Q04_5, B03Q04_6",4
+UC2_tour,Booking intention,"B03Q05_1, B03Q05_2",2
+UC2_tour,Price-value,"B03Q06_1, B03Q06_2, B03Q06_3",3
+UC2_tour,Attractiveness of the offer,"B03Q07_1, B03Q07_2",2
+UC2_tour,Fit/suitability of the offer,"B03Q07_3, B03Q07_4",2
+UC2_tour,Attractiveness of the additional offer,"B03Q07_5, B03Q07_6",2
